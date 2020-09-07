@@ -1,0 +1,12 @@
+.spread{
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin: 15px auto;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.205);
+  border-radius: 15px;
+}
+.spread input{
+  margin: 10px;
+}
